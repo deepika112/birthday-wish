@@ -16,3 +16,7 @@ And Done.
 Language used: **CPP**
 
 Header files include: **iostream**, **dos**,**graphics**,**conio**,**stdio**
+
+The screeshots of the project is uploaded below:
+
+![Screenshot (265)](https://user-images.githubusercontent.com/68001066/133920685-7f362bda-cc95-464c-be67-fa5fd3b492d9.png)
